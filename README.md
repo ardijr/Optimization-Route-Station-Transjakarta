@@ -170,9 +170,9 @@ Expected impact from this optimization framework:
 
 ## 8. Author
 
-**Ardi Ansyah**  
+**Muhammad Ardiansyah**  
 Purwadhika Data Science Bootcamp  
-Capstone Module 2  
+Analysis Transjakarta 
 
 ---
 
